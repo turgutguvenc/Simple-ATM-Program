@@ -1,2 +1,5 @@
 # Simple-ATM-Program
-This ATM program is making three main operations. 
+This ATM program makes three main operations. 
+1. Balance Inquiry
+2. Deposit
+3. Deposit Money
